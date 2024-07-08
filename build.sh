@@ -1,3 +1,3 @@
 #!/bin/bash
-docker build -t project .
+docker build -t test .
 
